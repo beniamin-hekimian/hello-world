@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+This is the changed readme.md file content in the readme-edits branch inside the hello-world repository.
